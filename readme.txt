@@ -12,4 +12,5 @@ ooooooooo
 >>>>>>> parent of b3f0583... add yyyyyyy
 dddddddddddddddddddddddd
 Git has a mutable index called stage
-Git tracks change
+Git tracks change of files
+really?
